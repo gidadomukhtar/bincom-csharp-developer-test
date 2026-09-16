@@ -1,0 +1,14 @@
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\bin\Debug\net10.0\BincomCSharpDeveloperTest.exe
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\bin\Debug\net10.0\BincomCSharpDeveloperTest.deps.json
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\bin\Debug\net10.0\BincomCSharpDeveloperTest.runtimeconfig.json
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\bin\Debug\net10.0\BincomCSharpDeveloperTest.dll
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\bin\Debug\net10.0\BincomCSharpDeveloperTest.pdb
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.AssemblyInfoInputs.cache
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.AssemblyInfo.cs
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.csproj.CoreCompileInputs.cache
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.dll
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\refint\BincomCSharpDeveloperTest.dll
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.pdb
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\BincomCSharpDeveloperTest.genruntimeconfig.cache
+C:\Users\MARYAM\Desktop\GIDADO\BincomCSharpDeveloperTest\obj\Debug\net10.0\ref\BincomCSharpDeveloperTest.dll
